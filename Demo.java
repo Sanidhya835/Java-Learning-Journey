@@ -13,7 +13,7 @@ public class Demo {
         byte b = 0x5; // 0 - 9, A - F --> hexadecimal
         short s = 10;
         int i = 4000;
-        long l = 10000;
+        long l = 100000;
 
         // Real --> float, double
         float f = 10.55f;
